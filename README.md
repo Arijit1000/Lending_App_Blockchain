@@ -178,6 +178,3 @@ PriceConsumerV3.sol: https://kovan.etherscan.io/address/0x2699f2d5def11f16b6a357
 - Gas optimization
 - Improve README.md
 
-## Credit
-
-Credit for original repo goes to https://github.com/alejoacosta74/ethereum-erc20token-vault
