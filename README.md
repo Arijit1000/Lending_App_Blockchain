@@ -178,5 +178,7 @@ PriceConsumerV3.sol: https://kovan.etherscan.io/address/0x2699f2d5def11f16b6a357
 - Gas optimization
 - Improve README.md
 
+## 8. Contribution
+
 This is an open-source project. Anyone interested in contributing to the TODO LIST can make pull requests. 
 Pull Requests will be reviewed and will be merged accordingly.
